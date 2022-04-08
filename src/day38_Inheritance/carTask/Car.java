@@ -1,4 +1,4 @@
-package carTask;
+package day38_Inheritance.carTask;
 public class Car {
     public String brand,model,color;
     public int year,miles;
