@@ -1,7 +1,6 @@
 package day38_Inheritance.shape;
 public class Shape {
     private String name;
-
     public String getName() {
         return name;
     }
