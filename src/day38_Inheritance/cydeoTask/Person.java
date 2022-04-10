@@ -33,7 +33,7 @@ public class Person {
         System.out.println(name+" is drinking");
     }
     public void sleep(){
-        System.out.println(name+" is eating");
+        System.out.println(name+" is sleeping");
     }
     public String toString() {
         return "Person{" +

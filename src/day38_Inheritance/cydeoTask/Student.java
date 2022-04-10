@@ -2,11 +2,13 @@ package day38_Inheritance.cydeoTask;
 public class Student extends Person {
     private int studentId;
     private String fieldOfStudy;
+
     public Student(String name, int age, char gender, int studentId, String fieldOfStudy) {
         super(name, age, gender);
         setStudentId(studentId);
         setFieldOfStudy(fieldOfStudy);
     }
+
     public int getStudentId() {
         return studentId;
     }
