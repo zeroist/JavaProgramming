@@ -1,4 +1,4 @@
-package day38_Inheritance.cydeoTask;
+package day39_Recap.cydeoTask;
 public class Employee extends Person {
     private int employeeId;
     private String jobTitle;

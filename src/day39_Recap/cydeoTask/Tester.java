@@ -1,4 +1,4 @@
-package day38_Inheritance.cydeoTask;
+package day39_Recap.cydeoTask;
 public class Tester extends Employee {
     public Tester(String name, int age, char gender, int employeeId, String jobTitle, double salary) {
         super(name, age, gender, employeeId, jobTitle, salary);

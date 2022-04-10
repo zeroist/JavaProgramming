@@ -1,4 +1,4 @@
-package day38_Inheritance.cydeoTask;
+package day39_Recap.cydeoTask;
 public class Cydeo {
     public static void main(String[] args) {
         Developer developer=new Developer("yusuf",43,'M',235,"Java Developer",120000);

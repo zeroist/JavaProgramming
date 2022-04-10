@@ -1,4 +1,4 @@
-package tasks.animalTask;
+package tasks.animalTask2;
 public class Zoo {
     public static void main(String[] args) {
         Dog dog = new Dog("Husky", "unknown", "middle", "white", 2, 'F');

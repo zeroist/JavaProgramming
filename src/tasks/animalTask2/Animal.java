@@ -1,4 +1,4 @@
-package tasks.animalTask;
+package tasks.animalTask2;
 public class Animal {
     public String name,breed,size,color;
     public int age;

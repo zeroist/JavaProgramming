@@ -1,4 +1,4 @@
-package tasks.animalTask;
+package tasks.animalTask2;
 public class Tiger extends Animal {
     public Tiger(String name, String breed, String size, String color, int age, char gender) {
         super(name, breed, size, color, age, gender);

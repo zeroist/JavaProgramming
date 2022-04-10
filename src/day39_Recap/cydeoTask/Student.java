@@ -1,4 +1,4 @@
-package day38_Inheritance.cydeoTask;
+package day39_Recap.cydeoTask;
 public class Student extends Person {
     private int studentId;
     private String fieldOfStudy;
