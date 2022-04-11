@@ -15,7 +15,7 @@ public class Animal {
         return name;
     }
     public void setName(String name) {
-        if(name.equals(null)|| name.isBlank()|| name.isEmpty()) {
+        if(name==null || name.isBlank()|| name.isEmpty()) {
             System.out.println("invalid name :"+ name); System.exit(1);
         }
         this.name = name;
